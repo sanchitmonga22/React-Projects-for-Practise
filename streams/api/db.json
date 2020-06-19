@@ -1,0 +1,22 @@
+{
+    "streams": [
+        {
+            "title": "new",
+            "description": "new",
+            "userId": "110514852715861532715",
+            "id": 3
+        },
+        {
+            "title": "yo",
+            "description": "whatsup",
+            "userId": "110514852715861532715",
+            "id": 4
+        },
+        {
+            "title": "lol",
+            "description": "lol",
+            "userId": "110514852715861532715",
+            "id": 5
+        }
+    ]
+}
